@@ -1,4 +1,4 @@
-# Hi there, I'm d7knight2! 👋
+# Hi there, I'm David Knight! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Android Developer** with expertise in crafting high-performance, scalable, and intuitive mobile applications. I specialize in modern development paradigms like **MVVM**, **Jetpack Compose**, and **Kotlin**, with a keen focus on **performance optimization**.
 
